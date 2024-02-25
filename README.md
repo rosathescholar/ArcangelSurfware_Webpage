@@ -6,4 +6,4 @@ Install HTML5 in Visual Studio Code
 
 Install Live Server in Visual Studio Code
 
-Click "Go Live"
+Click "Go Live" in .HTML file
